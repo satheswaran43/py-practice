@@ -1,1 +1,2 @@
-python basic problems on the starting of altalya  
+python basic problems on the starting of altalya class
+
